@@ -1,3 +1,3 @@
-# star-wars-characters
-Consumiendo API de personajes de STAR WARS
+#
+Consumiendo API de noticias mundiales sobre COVID
 # covid-news-api
