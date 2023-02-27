@@ -31,9 +31,9 @@ async function fetchData(urlApi) {
 					</div>
 					<div class="mt-4 flex justify-between">
 					<h3 class="text-sm text-gray-700">
-					<span aria-hidden="true" class="absolute inset-0"></span>
-					<strong>${covid.title}</strong> 
-					<a href=${covid.link} target="_blank"> Ver </a>
+						<span aria-hidden="true" class="absolute inset-0"></span>
+						<strong>${covid.title}</strong> 
+						<a href=${covid.link} target="_blank"> Ver </a>
 					</h3>
 				</div>
             </div>
